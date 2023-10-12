@@ -51,6 +51,8 @@ zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-history-substring-search
 zinit light zdharma-continuum/fast-syntax-highlighting
+zinit ice depth=1
+zinit light jeffreytse/zsh-vi-mode
 
 # key binding
 bindkey 'up' history-substring-search-up
