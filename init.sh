@@ -6,11 +6,9 @@ brew install --cask font-jetbrains-mono-nerd-font
 
 # node
 brew install nvm
-
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
 brew install nvim
-
 brew install neovide
-
-
+brew install exa
+brew install pnpm
+brew install bat
