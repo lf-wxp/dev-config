@@ -53,6 +53,7 @@ zinit light zsh-users/zsh-history-substring-search
 zinit light zdharma-continuum/fast-syntax-highlighting
 zinit ice depth=1
 zinit light jeffreytse/zsh-vi-mode
+ZVM_VI_EDITOR=nvim
 
 # key binding
 bindkey 'up' history-substring-search-up
